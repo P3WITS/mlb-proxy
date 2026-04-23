@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/mlb.js": {
+      "runtime": "edge"
+    }
+  }
+}
